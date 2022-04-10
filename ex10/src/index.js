@@ -11,8 +11,5 @@ function myBouncer(arr) {
 }
 
 console.log(myBouncer([7, "ate", "", false, 9]));
-console.log(myBouncer(["a", "b", "c"]));
-console.log(myBouncer([false, null, NaN, undefined, ""]));
-console.log(myBouncer([null, NaN, 1, 2, undefined]));
 // Only change code above this line
 module.exports = myBouncer;
