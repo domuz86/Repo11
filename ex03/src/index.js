@@ -17,7 +17,7 @@ function myArrayFunction(myPets){
 
     myNwePets.unshift("Lion");
 
-    return myNwePets;
+    return myNewPets;
 }
 
 //End of creating a function
